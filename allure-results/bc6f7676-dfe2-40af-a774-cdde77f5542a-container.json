@@ -1,0 +1,1 @@
+{"uuid":"bc6f7676-dfe2-40af-a774-cdde77f5542a","name":"webTest.createNewCandidate","children":["1eaa3ed8-16c8-4ded-b995-f1fae1722a6d"],"befores":[{"name":"beforeClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1546615344243,"stop":1546615349441}],"afters":[],"links":[],"start":1546615344199,"stop":1546615373462}

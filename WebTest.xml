@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Web Tests" verbose="1" parallel="tests" thread-count="1" group-by-instances="true">
+    <test name="Candidate feature">
+        <classes>
+            <class name="webTest.createNewCandidate"></class>
+        </classes>
+    </test>
+    <test name="Vacany feature">
+        <classes>
+            <class name="webTest.CreateNewVacancy"></class>
+        </classes>
+    </test>
+</suite>
